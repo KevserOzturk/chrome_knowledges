@@ -19,6 +19,6 @@ Yöntem 2: Tüm Dosyalar İçin Read Mode (Okuma Modu)
 Yöntem 3: Belge Bazlı Kısıtlama (Daha Güçlü)
 Eğer başkalarının düzenlemesini engellemek istiyorsan:
 
-Review → Restrict Editing
-"Allow only this type of editing: No changes (Read only)" seç
-"Yes, Start Enforcing Protection" ile şifre ekle
+1. Review → Restrict Editing
+2. "Allow only this type of editing: No changes (Read only)" seç
+3. "Yes, Start Enforcing Protection" ile şifre ekle
